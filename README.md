@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandre Menin!</h1>
+<h1 align="center">Hi, I'm Alexandre Menin! <img src="https://alexmeninf.github.io/me/img/foursquare-check-in.svg" height="28" width="28" alt="verified"></h1>
 <h3 align="center">A frontend developer at <a href="https://inovany.com.br" target="_blank">iNova</a>.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmeninf" alt="alexmeninf" /> </p>
 
