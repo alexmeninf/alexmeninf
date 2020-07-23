@@ -23,9 +23,9 @@
     alt="sass" width="35" height="35" /></p>
 <p align="center">
   <a href="https://fb.com/alexmeninf" target="_blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alexmeninf" height="35"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alexmeninf" height="30"
       width="35" /></a>
   <a href="https://instagram.com/alex.menin" target="_blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alex.menin" height="35"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alex.menin" height="30"
       width="35" /></a>
 </p>
