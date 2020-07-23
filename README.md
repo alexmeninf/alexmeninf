@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexandre Menin! <img src="https://alexmeninf.github.io/me/img/foursquare-check-in.svg" height="24" width="24" alt="verified"></h1>
 <h3 align="center">A frontend developer at <a href="https://inovany.com.br" target="_blank">iNova</a>.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
     alt="react" width="35" height="35" /> <img
     src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35"
