@@ -1,4 +1,4 @@
-<img src="https://alexmeninf.github.io/me/img/alexandre-capa.png" alt="developer" width="600" height="240" align="center">
+<div align="center"><img src="https://alexmeninf.github.io/me/img/alexandre-capa.png" alt="developer" width="600" height="240" ></div>
 
 <h1 align="center">Hi, I'm Alexandre Menin! <img src="https://alexmeninf.github.io/me/img/foursquare-check-in.svg" height="24" width="24" alt="verified"></h1>
 <h3 align="center">I work at <a href="https://inovany.com.br" target="_blank">iNova</a> as a Web Developer.</h3>
